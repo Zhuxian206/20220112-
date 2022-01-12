@@ -1,0 +1,34 @@
+字體
+'Arial'
+'Mulish', 'Arial', 'sans-serif' ,sans-serif
+
+font-family: 'Hind', 'Arial', 'sans-serif';
+font-weight: 300;
+
+font-family: "Open Sans";
+font-weight: 600;
+
+font-family: Montserrat,sans-serif;
+font-weight: 500;
+
+
+商品
+font-family: Open Sans,Arial;
+font-weight: 600;
+
+send 按鈕
+font-family: 'Montserrat','Arial',sans-serif;
+font-weight: 700;
+----------------------------------------------
+漢堡
+dl-trigger
+
+頁面頂端、底端
+fab fa-facebook
+fab fa-twitter
+fab fa-vimeo-square
+fab fa-instagram
+fab fa-dribbble
+
+回到頂端
+fa fa-angle-up
